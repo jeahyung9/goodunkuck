@@ -11,5 +11,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="35" height="35"/> </a>
-<h2> Blog 📚 </h2>
-https://comain.tistory.com/
